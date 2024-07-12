@@ -1,0 +1,1 @@
+https://unpkg.com.icons@5.4.0/dist/ionicons.js
